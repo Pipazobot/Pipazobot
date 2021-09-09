@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pipazobot
-- 👀 I’m interested in Deep learning, Machine Learning, or any use of techonology (electronics)
-- 🌱 I’m currently learning how to be a better person
-- 💞️ I’m looking to collaborate on ANY PROYECT
+- 👀 I’m interested in ______Deep learning, Machine Learning, or any use of techonology (electronics)_____
+- 🌱 I’m currently learning how to ____be_a_better_person____
+- 💞️ I’m looking to collaborate on ____any proyect_____
 - 📫 info for contact: f.mercado.lopez96@gmail.com
 
 <!---
